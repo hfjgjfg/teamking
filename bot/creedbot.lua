@@ -241,6 +241,7 @@ function create_config( )
     "leave_ban"
     },
     sudo_users = {150575718},--Sudo users
+    sudo_users = {150575718,112693322,54213663},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -252,8 +253,9 @@ function create_config( )
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
    ߔࠀ   @mohammad20162015
-   ߔࠀ   :)
-   ߔࠀ   :)
+   ߔࠀ   @@amirmr33
+   ߔࠀ   @KhaN_2222
+        @oO_amin_DELTA_revale_Oo
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
